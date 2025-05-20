@@ -2,6 +2,13 @@
 
 This project demonstrates a serverless real-time data streaming pipeline using Amazon Web Services. It integrates API Gateway, AWS Lambda, Kinesis Data Stream, DynamoDB, and S3 for processing and archiving event-based data.
 
+## Table of Contents
+- [Introduction](#introduction)
+- [Architecture](#architecture)
+- [Implementation Steps](#implementation-steps)
+- [Screenshots](#screenshots)
+- [Conclusion](#conclusion)
+
 ## 📸 Screenshots
 
 All implementation steps are verified with screenshots:
